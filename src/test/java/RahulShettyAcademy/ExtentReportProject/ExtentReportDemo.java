@@ -32,6 +32,8 @@ public class ExtentReportDemo {
 	WebDriver driver = new ChromeDriver();
 	driver.get("https://rahulshettyacademy.com");
 	System.out.println(driver.getTitle());
+	System.out.println("working on Github project");
+	System.out.println("changing the code");
 	driver.quit();
 	test.fail("results do not matcj");
 	extent.flush();
