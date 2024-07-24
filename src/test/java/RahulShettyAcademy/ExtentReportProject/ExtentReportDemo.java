@@ -43,7 +43,10 @@ public class ExtentReportDemo {
 	extent.flush();
 	}
 
-
+public void simple()
+{
+	System.out.println("simple method to check");
+}
 
 
 
