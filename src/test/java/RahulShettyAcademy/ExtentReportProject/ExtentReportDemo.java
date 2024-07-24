@@ -48,7 +48,11 @@ public void simple()
 	System.out.println("simple method to check");
 }
 
+public void simple1()
+{
+	System.out.println("another method to check");
 
+}
 
 
 
