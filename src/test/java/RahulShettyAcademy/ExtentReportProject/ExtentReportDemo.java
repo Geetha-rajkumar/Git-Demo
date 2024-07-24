@@ -35,7 +35,8 @@ public class ExtentReportDemo {
 	System.out.println("working on Github project");
 	System.out.println("changing the code");
 	System.out.println("changes made in gitdemo");
-
+	System.out.println("changes made 2nd time");
+	System.out.println("changes made and upload it");
 	
 	driver.quit();
 	test.fail("results do not matcj");
