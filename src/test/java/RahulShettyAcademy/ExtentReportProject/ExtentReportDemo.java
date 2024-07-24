@@ -54,6 +54,11 @@ public void simple1()
 
 }
 
+public void simple2()
+{
+	System.out.println("another method to check");
+
+}
 
 
 }
